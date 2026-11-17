@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://srjdat666.github.io/SirajCV/sitemap.xml
